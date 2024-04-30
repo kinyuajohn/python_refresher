@@ -15,7 +15,7 @@ random.shuffle(key)
 # print(f"key  : {key}")
 
 # Encrypt
-plain_text = input("ENter a message to encrypt: ")
+plain_text = input("Enter a message to encrypt: ")
 cipher_text = ""
 
 for letter in plain_text:
