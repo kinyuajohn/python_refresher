@@ -1,1 +1,1 @@
-option
+net_price(500, 0, 0.05)
