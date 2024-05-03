@@ -1,2 +1,2 @@
-n_on()
-car.drive()
+def talk(self):
+    #     print("This chicken is clucking")
