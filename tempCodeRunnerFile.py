@@ -1,1 +1,2 @@
-net_price(500, 0, 0.05)
+n_on()
+car.drive()
