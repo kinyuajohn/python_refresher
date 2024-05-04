@@ -1,2 +1,2 @@
-def talk(self):
-    #     print("This chicken is clucking")
+passed_students = [x for x in students if x >= 60]
+print(passed_students)
